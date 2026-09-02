@@ -13,6 +13,3 @@ An interactive product prototype exploring how Google Scholar Labs could help re
 
 Use the website link in the **About** section of this repository to explore the interactive prototype.
 
-## About This Project
-
-This prototype was created as a product management case study exploring opportunities to make academic research comparison more efficient and verifiable.
