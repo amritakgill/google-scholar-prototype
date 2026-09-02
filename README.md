@@ -1,4 +1,4 @@
-# Prototype of New Google Scholar Labs Feature 
+# Prototype of Proposed Google Scholar Labs Feature 
 
 An interactive product prototype exploring how Google Scholar Labs could help researchers compare studies and verify information against source evidence.
 
